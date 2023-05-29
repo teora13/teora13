@@ -8,4 +8,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teora13&layout=compact&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teora13=solarized_dark)
+
 [![codewars](https://www.codewars.com/users/teora13/badges/small)](https://www.codewars.com/users/teora13)   
