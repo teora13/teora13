@@ -7,3 +7,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teora13&hide=stars,contribs&show_icons=true&theme=aura_dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teora13&layout=compact&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![codewars](https://www.codewars.com/users/teora13/badges/small)](https://www.codewars.com/users/teora13)   
