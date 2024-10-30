@@ -2,7 +2,7 @@
 
 * 🔭 Experienced in QA, writing scripts and automate routine tasks.
 * 🌱 Currently practicing cybersecurity and coding (Python).
-* 📫  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anamentus/) 
+* 📫  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anamentus/) 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teora13&hide=stars,contribs&show_icons=true&theme=aura_dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
